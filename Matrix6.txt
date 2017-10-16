@@ -1,0 +1,10 @@
+Training group 2 to 6 ,7
+Testing group 1
+
+
+Accuracy = 0.601296296296
+
+Confusion Matrix
+3035 262 303
+1754 1391 455
+990	542	2068
