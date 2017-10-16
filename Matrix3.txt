@@ -1,8 +1,0 @@
-Training group 1 to 5 and 7
-Testing group 6
-
-Accuracy = 0.640648148148
-
-2790 407 402
-1200 1913 488
-717	667	2216
