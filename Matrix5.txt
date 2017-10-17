@@ -2,7 +2,7 @@ Training Group 1 to 5 & 8
 Testing Group 7
 
 
-Accuracy : 0.635925925926
+Accuracy : 0.638333333333
 
 Confusion Matrix
 
