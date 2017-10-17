@@ -1,15 +1,18 @@
-Training group 1 to 4 ,6 ,8
-Testing group 5
+Training Group 1 to 4 & 6 & 8
+Testing Group 5
 
 
-Accuracy = 0.640092592593
 
-Confusion Matrix
+Accuracy : 0.635925925926
+
+Confusion Matrix 
+
 2747 459 393
 1157 1952 492
 701	685	2214
-
+		
 Normalized
-0.7633	0.1275	0.1092
-0.3213	0.5421	0.1366
-0.1947	0.1903	0.6150
+	 
+0.763267574	0.127535427	0.109196999
+0.321299639	0.542071647	0.136628714
+0.194722222	0.190277778	0.615
