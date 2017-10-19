@@ -1,0 +1,21 @@
+	Training Group 2 to 7
+	Testing group 1
+	
+	Accuracy : 0.921904761905
+	
+	
+Confusion Matrix
+	
+	4182 18	0
+	331	3850 19
+	116	500	3584
+			
+	    C	         D	          S
+C	0.995714286	0.004285714	     0
+D	0.078809524	0.916666667	0.00452381
+S	0.027619048	0.119047619	0.853333333
+
+
+C = cells
+D = debris
+S = strips
